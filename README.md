@@ -1,2 +1,2 @@
 # finance
-Here you can find programs and financial data that I use sometimes
+Algunos programas o cosas de finanzas que me interesan...
